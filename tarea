@@ -16,3 +16,12 @@ Región de Los Ríos
 Región de Los Lagos
 Región de Aysén del General Carlos Ibáñez del Campo
 Región de Magallanes y de la Antártica Chilena
+
+
+2) 
+
+Agregar Local llamada "almacen uno" asociado a la region de los lagos / activo
+Agregar Local llamada "almacen dos" asociado a la region de tarapaca / activo
+Agregar Local llamada "almacen tres" asociado a la region del maule / activo
+Agregar Local llamada "almacen cuatro" asociado a la region metropolitana / inactivo
+Agregar Local llamada "almacen cinco" asociado a la region de valparaiso / activo
