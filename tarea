@@ -18,13 +18,36 @@ Región de Aysén del General Carlos Ibáñez del Campo
 Región de Magallanes y de la Antártica Chilena
 
 
+INSERT INTO REGION VALUES('Región de Arica y Parinacota','A');
+INSERT INTO REGION VALUES('Región de Tarapacá','A');
+INSERT INTO REGION VALUES('Región de Antofagasta','A');
+INSERT INTO REGION VALUES('Región de Atacama','A');
+INSERT INTO REGION VALUES('Región de Coquimbo','A');
+INSERT INTO REGION VALUES('Región de Valparaíso ','A');
+INSERT INTO REGION VALUES('Región Metropolitana de Santiago','A');
+INSERT INTO REGION VALUES('Región del Libertador General Bernardo OHiggins','A');
+INSERT INTO REGION VALUES('Región del Maule','A');
+INSERT INTO REGION VALUES('Región de Ñuble','A');
+INSERT INTO REGION VALUES('Región del Biobío','A');
+INSERT INTO REGION VALUES('Región de La Araucanía','A');
+INSERT INTO REGION VALUES('Región de Los Ríos','A');
+INSERT INTO REGION VALUES('Región de Los Lagos','A');
+INSERT INTO REGION VALUES('Región de Aysén del General Carlos Ibáñez del Campo','A');
+INSERT INTO REGION VALUES('Región de Magallanes y de la Antártica Chilena','A');
+
+
+
 Agregar Local llamada "almacen uno" asociado a la region de los lagos / activo
 Agregar Local llamada "almacen dos" asociado a la region de tarapaca / activo
 Agregar Local llamada "almacen tres" asociado a la region del maule / activo
 Agregar Local llamada "almacen cuatro" asociado a la region metropolitana / inactivo
 Agregar Local llamada "almacen cinco" asociado a la region de valparaiso / activo
 
-
+INSERT INTO LOCALES VALUES(14,'Almacen Uno','A');
+INSERT INTO LOCALES VALUES(2,'Almacen Dos','A');
+INSERT INTO LOCALES VALUES(8,'Almacen Tres','A');
+INSERT INTO LOCALES VALUES(7,'Almacen Cuatro','I');
+INSERT INTO LOCALES VALUES(6,'Almacen Cinco','A');
 
 
 
